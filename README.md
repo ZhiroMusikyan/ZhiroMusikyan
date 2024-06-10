@@ -1,4 +1,4 @@
-![image](https://github.com/ZhiroMusikyan/ZhiroMusikyan/assets/40068920/dbd691f7-b5c6-4b1b-8c77-5f14c7afa0da)
+![image](https://github.com/ZhiroMusikyan/ZhiroMusikyan/assets/40068920/9ad6e55a-a4bc-4a89-8bd0-1d45e947a1c5)
 
 ## Profile 👨🏻‍💻
 Welcome to my GitHub profile! I am a front-end developer focused on the Reactjs framework ⚛. Passionate about component-driven architecture 🧩 and committed to code quality 💯.

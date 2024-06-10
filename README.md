@@ -1,3 +1,4 @@
+![image](https://github.com/ZhiroMusikyan/ZhiroMusikyan/assets/40068920/dbd691f7-b5c6-4b1b-8c77-5f14c7afa0da)
 ## Hi there 👋
 ## Profile
 My personal repository.
